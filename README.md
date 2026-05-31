@@ -18,4 +18,4 @@ pip install oasis
 
 ## License
 
-`oasis` is distributed under the terms of the [MIT](https://spdx.org/licenses/MIT.html) license.
+`oasis` is distributed under the terms of the [CC0-1.0](https://spdx.org/licenses/CC0-1.0.html) license.

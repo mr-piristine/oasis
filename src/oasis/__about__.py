@@ -2,11 +2,6 @@
 #
 # SPDX-License-Identifier: MIT
 __version__ = "0.0.2"
-
-
-# tv_downloader/__about__.py
-
-__version__ = "0.1.0"
 __author__ = "S.P."
 __email__ = "sprstn@gmail.com"
 __license__ = "Creative Commons - CC0 1.0 Universal"
