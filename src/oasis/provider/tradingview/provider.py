@@ -2,11 +2,13 @@
 
 from typing import Iterator, Union
 from datetime import datetime
-import websocket, ssl, time
+import websocket
+import ssl
+import time
 
-from ..models import Asset, Interval, Candle
-from ..protocol import TVProtocol
-from ..session import TVSession
+from ...domain.models import Asset, Interval, Candle
+from .protocol import TVProtocol
+from .session import TVSession
 
 
 class TradingViewStreamProvider:
