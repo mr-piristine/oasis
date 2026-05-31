@@ -18,6 +18,6 @@ git tag -a v%VERSION% -m "Version %VERSION% stable"
 git push origin v%VERSION%
 REM
 REM
-REM alternative
+REM alternative is git alias command
 REM git config --global alias.set-version "!f() { git tag -a \"v$1\" -m \"Version $1 stable\" && git push origin \"v$1\"; }; f"
 REM git set-version 0.0.3
